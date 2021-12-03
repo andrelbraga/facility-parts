@@ -1,0 +1,8 @@
+{
+  "name": "Facility Parts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "8ba3a6a1"
+}

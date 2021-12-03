@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Facility Parts",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
