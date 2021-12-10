@@ -6,6 +6,8 @@ import Home from '../home';
 import Purchase from '../purchases';
 import Notifications from '../notifications';
 import More from '../more';
+import Login from '../login';
+import Signup from '../signup';
 
 const routes = [
   {
@@ -33,6 +35,16 @@ const routes = [
     component: More,
     exact: true,
   },
+  {
+    path: '/login',
+    component: Login,
+    exact: true,
+  },
+  {
+    path: '/signup',
+    component: Signup,
+    exact: true,
+  }
 ];
 
 const RouterOutlet: React.FC = () => (

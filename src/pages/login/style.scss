@@ -11,8 +11,9 @@ ion-title{
 ion-row{
     padding: 5px 0;
 }
-ion-input{
-    border: 3px solid #00000014;
-    font-size: 20px !important;
-    border-radius: 30px;
+.headingText {
+    h5 {
+        margin-top: 0.2rem;
+        color: #d3a6c7;
+    }
 }

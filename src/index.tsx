@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Main from './pages/main';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 
@@ -31,6 +30,7 @@ import 'swiper/modules/pagination/pagination.min.css';
 import 'swiper/modules/scrollbar/scrollbar.min.css';
 import 'swiper/modules/zoom/zoom.min.css';
 import '@ionic/react/css/ionic-swiper.css';
+import Main from './pages/main';
 
 ReactDOM.render(
   <React.StrictMode>
